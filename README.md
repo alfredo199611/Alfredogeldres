@@ -130,6 +130,12 @@ http://mylatinotv.com:25461/live/jose/jose/22140.rtmp
 
 
 
+#EXTINF:-1 ,GOL PERU (5)
+http://mylatinotv.com:25461/live/jose/jose/46825.rtmp
+
+
+
+
 #EXTINF:-1 ,PERU MAGICO
 http://mylatinotv.com:25461/live/jose/jose/22133.rtmp
 
@@ -143,11 +149,11 @@ http://mylatinotv.com:25461/live/jose/jose/22623.rtmp
 
 
 #EXTINF:-1 ,TL Novela (1)
-http://mylatinotv.com:25461/live/jose/jose/16679.rtmp
+http://mylatinotv.com:25461/live/jose/jose/81733.rtmp
 
 
 #EXTINF:-1 ,TL Novela (2)
-http://mylatinotv.com:25461/live/jose/jose/17336.rtmp
+http://mylatinotv.com:25461/live/jose/jose/81901.rtmp
 
 
 
@@ -157,8 +163,49 @@ http://mylatinotv.com:25461/live/jose/jose/23515.rtmp
 
 
 
-#EXTINF:-1 ,RC Novela (1)
+#EXTINF:-1 ,RC Novela (1)  
 http://mylatinotv.com:25461/live/jose/jose/23501.rtmp
+
+
+
+#EXTINF:-1 ,Univision Tlnovelas (1)
+http://mylatinotv.com:25461/live/jose/jose/72815.rtmp
+
+
+
+
+#EXTINF:-1 ,SD Azteca 7(1)
+http://mylatinotv.com:25461/live/jose/jose/81661.rtmp
+
+
+
+
+#EXTINF:-1 ,SD Azteca 7(2)
+http://mylatinotv.com:25461/live/jose/jose/81802.rtmp
+
+
+
+
+#EXTINF:-1 ,Azteca 7(3)
+http://mylatinotv.com:25461/live/jose/jose/81832.rtmp
+
+
+
+
+#EXTINF:-1 ,SD CANAL 5
+http://mylatinotv.com:25461/live/jose/jose/81833.rtmp
+
+
+
+#EXTINF:-1 ,Estrellas SD (1)
+http://mylatinotv.com:25461/live/jose/jose/81807.rtmp
+
+
+
+
+#EXTINF:-1 ,ESTRELLAS(2)
+http://mylatinotv.com:25461/live/jose/jose/81836.rtmp
+
 
 
 
