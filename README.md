@@ -152,5 +152,5 @@ http://mylatinotv.com:25461/live/jose/jose/17336.rtmp
 
 
 #EXTINF:-1 ,Pasiones (1)
-http://mylkimbogrupol.com:25461/live/jose/jose/17332.rtmp
+http://kimbogrupol.com:25461/live/jose/jose/17332.rtmp
 
