@@ -142,4 +142,15 @@ http://mylatinotv.com:25461/live/jose/jose/22623.rtmp
 
 
 
+#EXTINF:-1 ,TL Novela (1)
+http://mylatinotv.com:25461/live/jose/jose/16679.rtmp
+
+
+#EXTINF:-1 ,TL Novela (2)
+http://mylatinotv.com:25461/live/jose/jose/17336.rtmp
+
+
+
+#EXTINF:-1 ,Pasiones (1)
+http://mylatinotv.com:25461/live/jose/jose/17332.rtmp
 
