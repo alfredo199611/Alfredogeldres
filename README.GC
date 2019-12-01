@@ -2,25 +2,35 @@
 
 
 
-#EXTINF:-1 ,PANAMERICA (1) http://mylatinotv.com:25461//live/jose/jose/22624.rtmp
+#EXTINF:-1 ,PANAMERICA (1) 
+http://mylatinotv.com:25461//live/jose/jose/22624.rtmp
 
-#EXTINF:-1 ,PANAMERICA (2) http://mylatinotv.com:25461/live/jose/jose/22134.rtmp
+#EXTINF:-1 ,PANAMERICA (2) 
+http://mylatinotv.com:25461/live/jose/jose/22134.rtmp
 
-#EXTINF:-1 ,PANAMERICA (3) http://mylatinotv.com:25461/live/jose/jose/19004.rtmp
+#EXTINF:-1 ,PANAMERICA (3) 
+http://mylatinotv.com:25461/live/jose/jose/19004.rtmp
 
-#EXTINF:-1 ,AMERICA TV (1) http://mylatinotv.com:25461/live/jose/jose/22144.rtmp
+#EXTINF:-1 ,AMERICA TV (1) 
+http://mylatinotv.com:25461/live/jose/jose/22144.rtmp
 
-#EXTINF:-1 ,AMERICA TV (2) http://mylatinotv.com:25461/live/jose/jose/22145.rtmp
+#EXTINF:-1 ,AMERICA TV (2) 
+http://mylatinotv.com:25461/live/jose/jose/22145.rtmp
 
-#EXTINF:-1 ,AMERICA TV (3) http://mylatinotv.com:25461/live/jose/jose/22620.rtmp
+#EXTINF:-1 ,AMERICA TV (3) 
+http://mylatinotv.com:25461/live/jose/jose/22620.rtmp
 
-#EXTINF:-1 ,AMERICA TV (4) http://mylatinotv.com:25461/live/jose/jose/22621.rtmp
+#EXTINF:-1 ,AMERICA TV (4) 
+http://mylatinotv.com:25461/live/jose/jose/22621.rtmp
 
-#EXTINF:-1 ,FRECUENCIA LATINA (1) http://mylatinotv.com:25461/live/jose/jose/22137.rtmp
+#EXTINF:-1 ,FRECUENCIA LATINA (1) 
+http://mylatinotv.com:25461/live/jose/jose/22137.rtmp
 
-#EXTINF:-1 ,FRECUENCIA LATINA (2) http://mylatinotv.com:25461/live/jose/jose/22616.rtmp
+#EXTINF:-1 ,FRECUENCIA LATINA (2) 
+http://mylatinotv.com:25461/live/jose/jose/22616.rtmp
 
-#EXTINF:-1 ,ATV (1) http://mylatinotv.com:25461/live/jose/jose/22619.rtmp
+#EXTINF:-1 ,ATV (1) 
+http://mylatinotv.com:25461/live/jose/jose/22619.rtmp
 
 #EXTINF:-1 ,TV PERU (1) 
 http://mylatinotv.com:25461/live/jose/jose/22129.rtmp
