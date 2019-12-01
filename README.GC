@@ -12,7 +12,7 @@ http://mylatinotv.com:25461/live/jose/jose/22134.rtmp
 http://mylatinotv.com:25461/live/jose/jose/19004.rtmp
 
 #EXTINF:-1 ,AMERICA TV (1) 
-http://mylatinotv.com:25461/live/jose/jose/22144.hls
+http://mylatinotv.com:25461/live/jose/jose/22144.ts
 
 #EXTINF:-1 ,AMERICA TV (2) 
 http://mylatinotv.com:25461/live/jose/jose/22145.rtmp
