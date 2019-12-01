@@ -37,11 +37,33 @@ http://mylatinotv.com:25461/live/jose/jose/22616.rtmp
 #EXTINF:-1 ,ATV (1) 
 http://mylatinotv.com:25461/live/jose/jose/22619.rtmp
 
+
+
+
+#EXTINF:-1 ,Atv SD (2)
+http://mylatinotv.com:25461/live/jose/jose/1113094.rtmp
+
+
+
+
+
 #EXTINF:-1 ,TV PERU (1) 
 http://mylatinotv.com:25461/live/jose/jose/22129.rtmp
 
+
+
 #EXTINF:-1 ,Tv Peru SD(2) 
 http://mylatinotv.com:25461/live/jose/jose/1115814.rtmp
+
+
+#EXTINF:-1 ,Willax HD
+http://mylatinotv.com:25461/live/jose/jose/1113095.rtmp
+
+
+#EXTINF:-1 ,Exitosa HD
+http://mylatinotv.com:25461/live/jose/jose/1113096.rtmp
+
+
 
 #EXTINF:-1 ,RRP (1) 
 http://mylatinotv.com:25461/live/jose/jose/22130.rtmp
@@ -90,6 +112,13 @@ http://mylatinotv.com:25461/live/jose/jose/22133.rtmp
 
 #EXTINF:-1 ,Movistar Plus 
 http://mylatinotv.com:25461/live/jose/jose/22623.rtmp
+
+
+
+
+#EXTINF:-1 ,Movistar Plus
+http://mylatinotv.com:25461/live/jose/jose/1113355.rtmp
+
 
 #EXTINF:-1 ,TL Novela (1) 
 http://mylatinotv.com:25461/live/jose/jose/81733.rtmp
