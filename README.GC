@@ -8,6 +8,11 @@ http://mylatinotv.com:25461//live/jose/jose/22624.rtmp
 #EXTINF:-1 ,PANAMERICA (2) 
 http://mylatinotv.com:25461/live/jose/jose/22134.rtmp
 
+
+
+
+
+
 #EXTINF:-1 ,PANAMERICA (3) 
 http://mylatinotv.com:25461/live/jose/jose/19004.rtmp
 
@@ -121,7 +126,7 @@ http://mylatinotv.com:25461/live/jose/jose/81950.rtmp
 #EXTINF:-1 ,Azteca 7(5) 
 http://mylatinotv.com:25461/live/jose/jose/81952.rtmp
 
-#EXTINF:-1 ,Azteca 7(6) 
+#EXTINF:-1 ,Azteca 7 (6) 
 http://mylatinotv.com:25461/live/jose/jose/81963.rtmp
 
 #EXTINF:-1 ,Azteca 7(7) 
@@ -133,8 +138,12 @@ http://mylatinotv.com:25461/live/jose/jose/81833.rtmp
 #EXTINF:-1 ,HD Canal 5(2) 
 http://mylatinotv.com:25461/live/jose/jose/81991.rtmp
 
+
+
 #EXTINF:-1 ,Estrellas SD (1) 
 http://mylatinotv.com:25461/live/jose/jose/81807.rtmp
+
+
 
 #EXTINF:-1 ,ESTRELLAS(2) 
 http://mylatinotv.com:25461/live/jose/jose/81836.rtmp
