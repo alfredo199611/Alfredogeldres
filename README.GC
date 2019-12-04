@@ -65,7 +65,7 @@ http://mylatinotv.com:25461/live/jose/jose/1113096.m3u8
 
 
 
-#EXTINF:-1 ,RRP (1) 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png" group-title="Peru", RPP
 http://mylatinotv.com:25461/live/jose/jose/22130.m3u8
 
 #EXTINF:-1 ,CAPITAL TV (1) 
