@@ -19,13 +19,13 @@ http://mylatinotv.com:25461/live/jose/jose/19004.m3u8
 #EXTINF:-1 tvg-logo="http://cablemas.com.pe/wp-content/uploads/2019/08/America-TV.png" group-title="Peru", América tv (1) 
 http://mylatinotv.com:25461/live/jose/jose/22144.m3u8
 
-#EXTINF:-1 ,AMERICA TV (2) 
+#EXTINF:-1 tvg-logo="http://cablemas.com.pe/wp-content/uploads/2019/08/America-TV.png" group-title="Peru", América tv (2) 
 http://mylatinotv.com:25461/live/jose/jose/22145.m3u8
 
-#EXTINF:-1 ,AMERICA TV (3) 
+#EXTINF:-1 tvg-logo="http://cablemas.com.pe/wp-content/uploads/2019/08/America-TV.png" group-title="Peru", América tv (3) 
 http://mylatinotv.com:25461/live/jose/jose/22620.m3u8
 
-#EXTINF:-1 ,AMERICA TV (4) 
+#EXTINF:-1 tvg-logo="http://cablemas.com.pe/wp-content/uploads/2019/08/America-TV.png" group-title="Peru", América tv (4) 
 http://mylatinotv.com:25461/live/jose/jose/22621.m3u8
 
 #EXTINF:-1 ,FRECUENCIA LATINA (1) 
