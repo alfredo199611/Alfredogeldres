@@ -3,10 +3,10 @@
 
 
 #EXTINF:-1 ,PANAMERICA (1) 
-http://mylatinotv.com:25461//live/jose/jose/22624.rtmp
+http://mylatinotv.com:25461//live/jose/jose/22624.m3u8
 
 #EXTINF:-1 ,PANAMERICA (2) 
-http://mylatinotv.com:25461/live/jose/jose/22134.rtmp
+http://mylatinotv.com:25461/live/jose/jose/22134.m3u8
 
 
 
@@ -14,80 +14,80 @@ http://mylatinotv.com:25461/live/jose/jose/22134.rtmp
 
 
 #EXTINF:-1 ,PANAMERICA (3) 
-http://mylatinotv.com:25461/live/jose/jose/19004.rtmp
+http://mylatinotv.com:25461/live/jose/jose/19004.m3u8
 
 #EXTINF:-1 ,AMERICA TV (1) 
-http://mylatinotv.com:25461/live/jose/jose/22144.rtmp
+http://mylatinotv.com:25461/live/jose/jose/22144.m3u8
 
 #EXTINF:-1 ,AMERICA TV (2) 
-http://mylatinotv.com:25461/live/jose/jose/22145.rtmp
+http://mylatinotv.com:25461/live/jose/jose/22145.m3u8
 
 #EXTINF:-1 ,AMERICA TV (3) 
-http://mylatinotv.com:25461/live/jose/jose/22620.rtmp
+http://mylatinotv.com:25461/live/jose/jose/22620.m3u8
 
 #EXTINF:-1 ,AMERICA TV (4) 
-http://mylatinotv.com:25461/live/jose/jose/22621.rtmp
+http://mylatinotv.com:25461/live/jose/jose/22621.m3u8
 
 #EXTINF:-1 ,FRECUENCIA LATINA (1) 
-http://mylatinotv.com:25461/live/jose/jose/22137.rtmp
+http://mylatinotv.com:25461/live/jose/jose/22137.m3u8
 
 #EXTINF:-1 ,FRECUENCIA LATINA (2) 
-http://mylatinotv.com:25461/live/jose/jose/22616.rtmp
+http://mylatinotv.com:25461/live/jose/jose/22616.m3u8
 
 #EXTINF:-1 ,ATV (1) 
-http://mylatinotv.com:25461/live/jose/jose/22619.rtmp
+http://mylatinotv.com:25461/live/jose/jose/22619.m3u8
 
 
 
 
 #EXTINF:-1 ,Atv SD (2)
-http://mylatinotv.com:25461/live/jose/jose/1113094.rtmp
+http://mylatinotv.com:25461/live/jose/jose/1113094.m3u8
 
 
 
 
 
 #EXTINF:-1 ,TV PERU (1) 
-http://mylatinotv.com:25461/live/jose/jose/22129.rtmp
+http://mylatinotv.com:25461/live/jose/jose/22129.m3u8
 
 
 
 #EXTINF:-1 ,Tv Peru SD(2) 
-http://mylatinotv.com:25461/live/jose/jose/1115814.rtmp
+http://mylatinotv.com:25461/live/jose/jose/1115814.m3u8
 
 
 #EXTINF:-1 ,Willax HD
-http://mylatinotv.com:25461/live/jose/jose/1113095.rtmp
+http://mylatinotv.com:25461/live/jose/jose/11130951.m3u8
 
 
 #EXTINF:-1 ,Exitosa HD
-http://mylatinotv.com:25461/live/jose/jose/1113096.rtmp
+http://mylatinotv.com:25461/live/jose/jose/1113096.m3u8
 
 
 
 #EXTINF:-1 ,RRP (1) 
-http://mylatinotv.com:25461/live/jose/jose/22130.rtmp
+http://mylatinotv.com:25461/live/jose/jose/22130.m3u8
 
 #EXTINF:-1 ,CAPITAL TV (1) 
-http://mylatinotv.com:25461/live/jose/jose/22141.rtmp
+http://mylatinotv.com:25461/live/jose/jose/22141.m3u8
 
 #EXTINF:-1 ,CANAL N (1) 
-http://mylatinotv.com:25461/live/jose/jose/22142.rtmp
+http://mylatinotv.com:25461/live/jose/jose/22142.m3u8
 
 #EXTINF:-1 ,ANTARES TV (1) 
-http://mylatinotv.com:25461/live/jose/jose/22143.rtmp
+http://mylatinotv.com:25461/live/jose/jose/22143.m3u8
 
 #EXTINF:-1 ,Bethel (1) 
-http://mylatinotv.com:25461/live/jose/jose/22617.rtmp
+http://mylatinotv.com:25461/live/jose/jose/22617.m3u8
 
 #EXTINF:-1 ,CANAL N (1) 
-http://mylatinotv.com:25461/live/jose/jose/22625.rtmp
+http://mylatinotv.com:25461/live/jose/jose/226225.m3u8
 
 #EXTINF:-1 ,MONTERRICO TV (1) 
-http://mylatinotv.com:25461/live/jose/jose/22136.rtmp
+http://mylatinotv.com:25461/live/jose/jose/22136.m3u8
 
 #EXTINF:-1 ,AMERICA NEXT(1) 
-http://mylatinotv.com:25461/live/jose/jose/22135.rtmp
+http://mylatinotv.com:25461/live/jose/jose/22135.m3u8
 
 #EXTINF:-1 ,America Next SD(2) 
 http://mylatinotv.com:25461/live/jose/jose/1115813.rtmp
