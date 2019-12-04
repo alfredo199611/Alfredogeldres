@@ -56,7 +56,7 @@ http://mylatinotv.com:25461/live/jose/jose/22129.m3u8
 http://mylatinotv.com:25461/live/jose/jose/1115814.m3u8
 
 
-#EXTINF:-1 ,Willax HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Willax_Televisi%C3%B3n.png" group-title="Peru", Willax HD
 http://mylatinotv.com:25461/live/jose/jose/11130951.m3u8
 
 
