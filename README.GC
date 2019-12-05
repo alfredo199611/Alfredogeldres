@@ -137,7 +137,7 @@ http://mylatinotv.com:25461/live/jose/jose/103565.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Rcnnovelas2015.png/240px-Rcnnovelas2015.png" group-title="Mexico", RCN  TL Novela (1)
 http://mylatinotv.com:25461/live/jose/jose/23501.m3u8
 
-#EXTINF:-1 ,Univision Tlnovelas (1) 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/Univision_tlnovelas_logo.png" group-title="Mexico",Univision TL Novela 
 http://mylatinotv.com:25461/live/jose/jose/72815.m3u8
 
 #EXTINF:-1 ,SD Azteca 7(1) 
