@@ -3,10 +3,10 @@
 
 
 #EXTINF:-1 ,PANAMERICA (1) 
-http://mylatinotv.com:25461//live/jose/jose/22624.m3u8
+http://mylatinotv.com:25461//live/jose/jose/22624.rtmp
 
 #EXTINF:-1 ,PANAMERICA (2) 
-http://mylatinotv.com:25461/live/jose/jose/22134.m3u8
+http://mylatinotv.com:25461/live/jose/jose/22134.rtmp
 
 
 
@@ -14,195 +14,195 @@ http://mylatinotv.com:25461/live/jose/jose/22134.m3u8
 
 
 #EXTINF:-1 ,PANAMERICA (3) 
-http://mylatinotv.com:25461/live/jose/jose/19004.m3u8
+http://mylatinotv.com:25461/live/jose/jose/19004.rtmp
 
 #EXTINF:-1 tvg-logo="http://cablemas.com.pe/wp-content/uploads/2019/08/America-TV.png" group-title="Peru", América tv (1) 
-http://mylatinotv.com:25461/live/jose/jose/22144.m3u8
+http://mylatinotv.com:25461/live/jose/jose/22144.rtmp
 
 #EXTINF:-1 tvg-logo="http://cablemas.com.pe/wp-content/uploads/2019/08/America-TV.png" group-title="Peru", América tv (2) 
-http://mylatinotv.com:25461/live/jose/jose/22145.m3u8
+http://mylatinotv.com:25461/live/jose/jose/22145.rtmp
 
 #EXTINF:-1 tvg-logo="http://cablemas.com.pe/wp-content/uploads/2019/08/America-TV.png" group-title="Peru", América tv (3) 
-http://mylatinotv.com:25461/live/jose/jose/22620.m3u8
+http://mylatinotv.com:25461/live/jose/jose/22620.rtmp
 
 #EXTINF:-1 tvg-logo="http://cablemas.com.pe/wp-content/uploads/2019/08/America-TV.png" group-title="Peru", América tv (4) 
-http://mylatinotv.com:25461/live/jose/jose/22621.m3u8
+http://mylatinotv.com:25461/live/jose/jose/22621.rtmp
 
 #EXTINF:-1 ,FRECUENCIA LATINA (1) 
-http://mylatinotv.com:25461/live/jose/jose/22137.m3u8
+http://mylatinotv.com:25461/live/jose/jose/22137.rtmp
 
 #EXTINF:-1 ,FRECUENCIA LATINA (2) 
-http://mylatinotv.com:25461/live/jose/jose/22616.m3u8
+http://mylatinotv.com:25461/live/jose/jose/22616.rtmp
 
 #EXTINF:-1 ,ATV (1) 
-http://mylatinotv.com:25461/live/jose/jose/22619.m3u8
+http://mylatinotv.com:25461/live/jose/jose/22619.rtmp
 
 
 
 
 #EXTINF:-1 ,Atv SD (2)
-http://mylatinotv.com:25461/live/jose/jose/1113094.m3u8
+http://mylatinotv.com:25461/live/jose/jose/1113094.rtmp
 
 
 
 
 
 #EXTINF:-1 ,TV PERU (1) 
-http://mylatinotv.com:25461/live/jose/jose/22129.m3u8
+http://mylatinotv.com:25461/live/jose/jose/22129.rtmp
 
 
 
 #EXTINF:-1 ,Tv Peru SD(2) 
-http://mylatinotv.com:25461/live/jose/jose/1115814.m3u8
+http://mylatinotv.com:25461/live/jose/jose/1115814.rtmp
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Willax_Televisi%C3%B3n.png" group-title="Peru", Willax HD
-http://mylatinotv.com:25461/live/jose/jose/11130951.m3u8
+http://mylatinotv.com:25461/live/jose/jose/11130951.rtmp
 
 
 #EXTINF:-1 ,Exitosa HD
-http://mylatinotv.com:25461/live/jose/jose/1113096.m3u8
+http://mylatinotv.com:25461/live/jose/jose/1113096.rtmp
 
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png" group-title="Peru", RPP
-http://mylatinotv.com:25461/live/jose/jose/22130.m3u8
+http://mylatinotv.com:25461/live/jose/jose/22130.rtmp
 
 #EXTINF:-1 ,CAPITAL TV (1) 
-http://mylatinotv.com:25461/live/jose/jose/22141.m3u8
+http://mylatinotv.com:25461/live/jose/jose/22141.rtmp
 
 #EXTINF:-1 ,CANAL N (1) 
-http://mylatinotv.com:25461/live/jose/jose/22142.m3u8
+http://mylatinotv.com:25461/live/jose/jose/22142.rtmp
 
 #EXTINF:-1 ,ANTARES TV (1) 
-http://mylatinotv.com:25461/live/jose/jose/22143.m3u8
+http://mylatinotv.com:25461/live/jose/jose/22143.rtmp
 
 #EXTINF:-1 ,Bethel (1) 
-http://mylatinotv.com:25461/live/jose/jose/22617.m3u8
+http://mylatinotv.com:25461/live/jose/jose/22617.rtmp
 
 #EXTINF:-1 ,CANAL N (1) 
-http://mylatinotv.com:25461/live/jose/jose/226225.m3u8
+http://mylatinotv.com:25461/live/jose/jose/226225.rtmp
 
 #EXTINF:-1 ,MONTERRICO TV (1) 
-http://mylatinotv.com:25461/live/jose/jose/22136.m3u8
+http://mylatinotv.com:25461/live/jose/jose/22136.rtmp
 
 #EXTINF:-1 ,AMERICA NEXT(1) 
-http://mylatinotv.com:25461/live/jose/jose/22135.m3u8
+http://mylatinotv.com:25461/live/jose/jose/22135.rtmp
 
 #EXTINF:-1 ,America Next SD(2) 
-http://mylatinotv.com:25461/live/jose/jose/1115813.m3u8
+http://mylatinotv.com:25461/live/jose/jose/1115813.rtmp
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/LOGO_oficial.jpg" group-title="Peru", Gol Perú (1) 
-http://mylatinotv.com:25461/live/jose/jose/19005.m3u8
+http://mylatinotv.com:25461/live/jose/jose/19005.rtmp
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/LOGO_oficial.jpg" group-title="Peru", Gol Perú (2) 
-http://mylatinotv.com:25461/live/jose/jose/19008.m3u8
+http://mylatinotv.com:25461/live/jose/jose/19008.rtmp
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/LOGO_oficial.jpg" group-title="Peru", Gol Perú (3)
-http://mylatinotv.com:25461/live/jose/jose/22139.m3u8
+http://mylatinotv.com:25461/live/jose/jose/22139.rtmp
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/LOGO_oficial.jpg" group-title="Peru", Gol Perú (4) 
-http://mylatinotv.com:25461/live/jose/jose/22140.m3u8
+http://mylatinotv.com:25461/live/jose/jose/22140.rtmp
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/LOGO_oficial.jpg" group-title="Peru", Gol Perú (5)
-http://mylatinotv.com:25461/live/jose/jose/46825.m3u8
+http://mylatinotv.com:25461/live/jose/jose/46825.rtmp
 
 #EXTINF:-1 ,PERU MAGICO 
-http://mylatinotv.com:25461/live/jose/jose/22133.m3u8
+http://mylatinotv.com:25461/live/jose/jose/22133.rtmp
 
 #EXTINF:-1 ,Movistar Plus 
-http://mylatinotv.com:25461/live/jose/jose/22623.m3u8
+http://mylatinotv.com:25461/live/jose/jose/22623.rtmp
 
 
 
 
 #EXTINF:-1 ,Movistar Plus
-http://mylatinotv.com:25461/live/jose/jose/1113355.m3u8
+http://mylatinotv.com:25461/live/jose/jose/1113355.rtmp
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/TlnovelasLogo.png" group-title="Mexico", TL Novela (1)
-http://mylatinotv.com:25461/live/jose/jose/81733.m3u8
+http://mylatinotv.com:25461/live/jose/jose/81733.rtmp
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/TlnovelasLogo.png" group-title="Mexico", TL Novela (2) 
-http://mylatinotv.com:25461/live/jose/jose/81901.m3u8
+http://mylatinotv.com:25461/live/jose/jose/81901.rtmp
 
 
 
 #EXTINF:-1 ,Pasiones (1) 
-http://mylatinotv.com:25461/live/jose/jose/23515.m3u8
+http://mylatinotv.com:25461/live/jose/jose/23515.rtmp
 
 #EXTINF:-1 ,PASIONES HD(2) 
-http://mylatinotv.com:25461/live/jose/jose/103565.m3u8
+http://mylatinotv.com:25461/live/jose/jose/103565.rtmp
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Rcnnovelas2015.png/240px-Rcnnovelas2015.png" group-title="Mexico", RCN  TL Novela (1)
-http://mylatinotv.com:25461/live/jose/jose/23501.m3u8
+http://mylatinotv.com:25461/live/jose/jose/23501.rtmp
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/Univision_tlnovelas_logo.png" group-title="Mexico",Univision TL Novela 
-http://mylatinotv.com:25461/live/jose/jose/72815.m3u8
+http://mylatinotv.com:25461/live/jose/jose/72815.rtmp
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Azteca_7.png" group-title="Mexico",Canal 7 (1)
-http://mylatinotv.com:25461/live/jose/jose/81661.m3u8
+http://mylatinotv.com:25461/live/jose/jose/81661.rtmp
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Azteca_7.png" group-title="Mexico",Canal 7 (2)
-http://mylatinotv.com:25461/live/jose/jose/81802.m3u8
+http://mylatinotv.com:25461/live/jose/jose/81802.rtmp
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Azteca_7.png" group-title="Mexico",Canal 7 (3)
-http://mylatinotv.com:25461/live/jose/jose/81832.m3u8
+http://mylatinotv.com:25461/live/jose/jose/81832.rtmp
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Azteca_7.png" group-title="Mexico",Canal 7 (4)
-http://mylatinotv.com:25461/live/jose/jose/81950.m3u8
+http://mylatinotv.com:25461/live/jose/jose/81950.rtmp
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Azteca_7.png" group-title="Mexico",Canal 7 (5)
-http://mylatinotv.com:25461/live/jose/jose/81952.m3u8
+http://mylatinotv.com:25461/live/jose/jose/81952.rtmp
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Azteca_7.png" group-title="Mexico",Canal 7 (6)
-http://mylatinotv.com:25461/live/jose/jose/81963.m3u8
+http://mylatinotv.com:25461/live/jose/jose/81963.rtmp
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Azteca_7.png" group-title="Mexico",Canal 7 (7)
 http://mylatinotv.com:25461/live/jose/jose/81990.rtmp
 
 #EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/Canal_5_(Mexico)#/media/File%3ALogotipo-Canal-5-M%C3%A9xico.png" group-title="Mexico",Canal 5 (1)
-http://mylatinotv.com:25461/live/jose/jose/81833.m3u8
+http://mylatinotv.com:25461/live/jose/jose/81833.rtmp
 
 #EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/Canal_5_(Mexico)#/media/File%3ALogotipo-Canal-5-M%C3%A9xico.png" group-title="Mexico",Canal 5 (2) 
-http://mylatinotv.com:25461/live/jose/jose/81991.m3u8
+http://mylatinotv.com:25461/live/jose/jose/81991.rtmp
 
 
 
 #EXTINF:-1 ,Estrellas SD (1) 
-http://mylatinotv.com:25461/live/jose/jose/81807.m3u8
+http://mylatinotv.com:25461/live/jose/jose/81807.rtmp
 
 
 
 #EXTINF:-1 ,ESTRELLAS(2) 
-http://mylatinotv.com:25461/live/jose/jose/81836.m3u8
+http://mylatinotv.com:25461/live/jose/jose/81836.rtmp
 
 #EXTINF:-1 ,HD Estrellas(3) 
-http://mylatinotv.com:25461/live/jose/jose/81994.m3u8
+http://mylatinotv.com:25461/live/jose/jose/81994.rtmp
 
 #EXTINF:-1 ,HD Televisa Puebla(1) 
-http://mylatinotv.com:25461/live/jose/jose/81927.m3u8
+http://mylatinotv.com:25461/live/jose/jose/81927.rtmp
 
 
 
 
 #EXTINF:-1 ,BEIN LALIGA 1HD
-http://mylatinotv.com:25461/live/jose/jose/95997.m3u8
+http://mylatinotv.com:25461/live/jose/jose/95997.rtmp
 
 
 
 
 #EXTINF:-1 ,BEIN LALIGA HD
-http://mylatinotv.com:25461/live/jose/jose/95998.m3u8
+http://mylatinotv.com:25461/live/jose/jose/95998.rtmp
 
 
 
 
 #EXTINF:-1 ,BEIN SPORTS HD
-http://mylatinotv.com:25461/live/jose/jose/95999.m3u8
+http://mylatinotv.com:25461/live/jose/jose/95999.rtmp
 
 
 
 
 #EXTINF:-1 ,BEIN SPORTS FHD
-http://mylatinotv.com:25461/live/jose/jose/96000.m3u8
+http://mylatinotv.com:25461/live/jose/jose/96000.rtmp
