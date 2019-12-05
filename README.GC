@@ -127,7 +127,7 @@ http://mylatinotv.com:25461/live/jose/jose/81901.rtmp
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pasiones_Tv_logo.svg" group-title="Mexico", Pasiones (1) 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1024px-Pasiones_Tv_logo.svg.png" group-title="Mexico", Pasiones (1) 
 http://mylatinotv.com:25461/live/jose/jose/23515.rtmp
 
 #EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pasiones_Tv_logo.svg" group-title="Mexico", Pasiones (1) 
