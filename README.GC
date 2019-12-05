@@ -28,11 +28,20 @@ http://mylatinotv.com:25461/live/jose/jose/22620.rtmp
 #EXTINF:-1 tvg-logo="http://cablemas.com.pe/wp-content/uploads/2019/08/America-TV.png" group-title="Peru", América tv (4) 
 http://mylatinotv.com:25461/live/jose/jose/22621.rtmp
 
-#EXTINF:-1 ,FRECUENCIA LATINA (1) 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Latina_%282014-presente%29.png" group-title="Peru", Frecuencia Latina (1)
 http://mylatinotv.com:25461/live/jose/jose/22137.rtmp
 
-#EXTINF:-1 ,FRECUENCIA LATINA (2) 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Latina_%282014-presente%29.png" group-title="Peru", Frecuencia Latina (2)
 http://mylatinotv.com:25461/live/jose/jose/22616.rtmp
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Latina_%282014-presente%29.png" group-title="Peru", Frecuencia Latina (3)
+http://mylatinotv.com:25461/live/jose/jose/19005.rtmp
+
+
 
 #EXTINF:-1 ,ATV (1) 
 http://mylatinotv.com:25461/live/jose/jose/22619.rtmp
@@ -85,25 +94,24 @@ http://mylatinotv.com:25461/live/jose/jose/226225.rtmp
 
 #EXTINF:-1 ,MONTERRICO TV (1) 
 http://mylatinotv.com:25461/live/jose/jose/22136.rtmp
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/AmericaNext_%28Per%C3%BA%29.png" group-title="Peru", Netx América (1)
 http://mylatinotv.com:25461/live/jose/jose/22135.rtmp
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/AmericaNext_%28Per%C3%BA%29.png" group-title="Peru", Netx América (1)
 http://mylatinotv.com:25461/live/jose/jose/1115813.rtmp
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/LOGO_oficial.jpg" group-title="Peru", Gol Perú (1) 
-http://mylatinotv.com:25461/live/jose/jose/19005.rtmp
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/LOGO_oficial.jpg" group-title="Peru", Gol Perú (2) 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/LOGO_oficial.jpg" group-title="Peru", Gol Perú (1) 
 http://mylatinotv.com:25461/live/jose/jose/19008.rtmp
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/LOGO_oficial.jpg" group-title="Peru", Gol Perú (3)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/LOGO_oficial.jpg" group-title="Peru", Gol Perú (2)
 http://mylatinotv.com:25461/live/jose/jose/22139.rtmp
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/LOGO_oficial.jpg" group-title="Peru", Gol Perú (4) 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/LOGO_oficial.jpg" group-title="Peru", Gol Perú (3) 
 http://mylatinotv.com:25461/live/jose/jose/22140.rtmp
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/LOGO_oficial.jpg" group-title="Peru", Gol Perú (5)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/LOGO_oficial.jpg" group-title="Peru", Gol Perú (4)
 http://mylatinotv.com:25461/live/jose/jose/46825.rtmp
 
 #EXTINF:-1 ,PERU MAGICO 
