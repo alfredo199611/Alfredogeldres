@@ -2,10 +2,10 @@
 
 
 
-#EXTINF:-1 tvg-logo=""https://peru.mom-rsf.org/typo3temp/_processed_/1/b/csm_2121-205_company_import_55e84b990b.png group-title="Peru", Panamericana (1)
+#EXTINF:-1 tvg-logo="https://peru.mom-rsf.org/typo3temp/_processed_/1/b/csm_2121-205_company_import_55e84b990b.png" group-title="Peru", Panamericana (1)
 http://mylatinotv.com:25461//live/jose/jose/22624.rtmp
 
-#EXTINF:-1 tvg-logo=""https://peru.mom-rsf.org/typo3temp/_processed_/1/b/csm_2121-205_company_import_55e84b990b.png group-title="Peru", Panamericana (2)
+#EXTINF:-1 tvg-logo="https://peru.mom-rsf.org/typo3temp/_processed_/1/b/csm_2121-205_company_import_55e84b990b.png" group-title="Peru", Panamericana (2)
 http://mylatinotv.com:25461/live/jose/jose/22134.rtmp
 
 
@@ -13,7 +13,7 @@ http://mylatinotv.com:25461/live/jose/jose/22134.rtmp
 
 
 
-#EXTINF:-1 tvg-logo=""https://peru.mom-rsf.org/typo3temp/_processed_/1/b/csm_2121-205_company_import_55e84b990b.png group-title="Peru", Panamericana (3)
+#EXTINF:-1 tvg-logo="https://peru.mom-rsf.org/typo3temp/_processed_/1/b/csm_2121-205_company_import_55e84b990b.png" group-title="Peru", Panamericana (3)
 http://mylatinotv.com:25461/live/jose/jose/19004.rtmp
 
 #EXTINF:-1 tvg-logo="http://cablemas.com.pe/wp-content/uploads/2019/08/America-TV.png" group-title="Peru", América tv (1) 
@@ -86,7 +86,7 @@ http://mylatinotv.com:25461/live/jose/jose/226225.rtmp
 #EXTINF:-1 ,MONTERRICO TV (1) 
 http://mylatinotv.com:25461/live/jose/jose/22136.rtmp
 
-#EXTINF:-1 ,AMERICA NEXT(1) 
+#EXTINF:-1 tvg-logo="https://es.m.wikipedia.org/wiki/Am%C3%A9rica_Next#/media/Archivo%3AAmericaNext_(Per%C3%BA).png" group-title="Peru", Next América (1)
 http://mylatinotv.com:25461/live/jose/jose/22135.rtmp
 
 #EXTINF:-1 ,America Next SD(2) 
