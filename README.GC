@@ -161,10 +161,10 @@ http://mylatinotv.com:25461/live/jose/jose/81963.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Azteca_7.png" group-title="Mexico",Canal 7 (7)
 http://mylatinotv.com:25461/live/jose/jose/81990.rtmp
 
-#EXTINF:-1 ,SD CANAL 5 
+#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/Canal_5_(Mexico)#/media/File%3ALogotipo-Canal-5-M%C3%A9xico.png" group-title="Mexico",Canal 5 (1)
 http://mylatinotv.com:25461/live/jose/jose/81833.m3u8
 
-#EXTINF:-1 ,HD Canal 5(2) 
+#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/Canal_5_(Mexico)#/media/File%3ALogotipo-Canal-5-M%C3%A9xico.png" group-title="Mexico",Canal 5 (2) 
 http://mylatinotv.com:25461/live/jose/jose/81991.m3u8
 
 
