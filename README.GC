@@ -179,7 +179,7 @@ http://mylatinotv.com:25461/live/jose/jose/81836.rtmp
 #EXTINF:-1 ,HD Estrellas(3) 
 http://mylatinotv.com:25461/live/jose/jose/81994.rtmp
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/63/Televisa_Regional_Logo.png" group-title="Mexico",Televisa Puebla  
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Televisa_logo.svg/100px-Televisa_logo.svg.png" group-title="Mexico",Televisa Puebla  
 http://mylatinotv.com:25461/live/jose/jose/81927.rtmp
 
 
