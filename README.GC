@@ -85,11 +85,10 @@ http://mylatinotv.com:25461/live/jose/jose/226225.rtmp
 
 #EXTINF:-1 ,MONTERRICO TV (1) 
 http://mylatinotv.com:25461/live/jose/jose/22136.rtmp
-
-#EXTINF:-1 tvg-logo="https://es.m.wikipedia.org/wiki/Am%C3%A9rica_Next#/media/Archivo%3AAmericaNext_(Per%C3%BA).png" group-title="Peru", América Next (1)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/AmericaNext_%28Per%C3%BA%29.png" group-title="Peru", Netx América (1)
 http://mylatinotv.com:25461/live/jose/jose/22135.rtmp
 
-#EXTINF:-1 ,America Next SD(2) 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/AmericaNext_%28Per%C3%BA%29.png" group-title="Peru", Netx América (1)
 http://mylatinotv.com:25461/live/jose/jose/1115813.rtmp
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/LOGO_oficial.jpg" group-title="Peru", Gol Perú (1) 
