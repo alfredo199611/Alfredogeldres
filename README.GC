@@ -130,7 +130,7 @@ http://mylatinotv.com:25461/live/jose/jose/81901.rtmp
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1024px-Pasiones_Tv_logo.svg.png" group-title="Mexico", Pasiones (1) 
 http://mylatinotv.com:25461/live/jose/jose/23515.rtmp
 
-#EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1024px-Pasiones_Tv_logo.svg.png" group-title="Mexico", Pasiones (2) 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1024px-Pasiones_Tv_logo.svg.png" group-title="Mexico", Pasiones (2) 
 http://mylatinotv.com:25461/live/jose/jose/103565.rtmp
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Rcnnovelas2015.png/240px-Rcnnovelas2015.png" group-title="Mexico", RCN  TL Novela (1)
