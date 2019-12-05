@@ -128,10 +128,10 @@ http://mylatinotv.com:25461/live/jose/jose/1113355.rtmp
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/TlnovelasLogo.png" group-title="Mexico", TL Novela (1)
-http://mylatinotv.com:25461/live/jose/jose/81733.rtmp
+http://mylatinotv.com:25461/live/jose/jose/81733.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/TlnovelasLogo.png" group-title="Mexico", TL Novela (2) 
-http://mylatinotv.com:25461/live/jose/jose/81901.rtmp
+http://mylatinotv.com:25461/live/jose/jose/81901.ts
 
 
 
