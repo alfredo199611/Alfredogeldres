@@ -122,7 +122,7 @@ http://mylatinotv.com:25461/live/jose/jose/1113355.rtmp
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/TlnovelasLogo.png" group-title="Mexico", TL Novela (1)
 http://mylatinotv.com:25461/live/jose/jose/81733.rtmp
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/TlnovelasLogo.png" group-title="Mexico", TL Novela (2) 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1024px-Pasiones_Tv_logo.svg.png" group-title="Mexico", TL Novela (2) 
 http://mylatinotv.com:25461/live/jose/jose/81901.rtmp
 
 
