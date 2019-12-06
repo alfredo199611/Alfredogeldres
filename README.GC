@@ -86,7 +86,7 @@ http://mylatinotv.com:25461/live/jose/jose/22142.rtmp
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/antarestv.png" group-title="Peru", ANTARES TV 
 http://mylatinotv.com:25461/live/jose/jose/22143.rtmp
 
-#EXTINF:-1 ,Bethel (1) 
+#EXTINF:-1 tvg-logo="http://bhtv.pe/wp-content/uploads/2017/04/bhtv-logo-300x219.png" group-title="Peru", BETHEL 
 http://mylatinotv.com:25461/live/jose/jose/22617.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Canal_N.png" group-title="Peru", CANAL N (2)
