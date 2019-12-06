@@ -56,12 +56,12 @@ http://mylatinotv.com:25461/live/jose/jose/1113094.rtmp
 
 
 
-#EXTINF:-1 ,TV PERU (1) 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="Peru", TV peru  HD (1)
 http://mylatinotv.com:25461/live/jose/jose/22129.m3u8
 
 
 
-#EXTINF:-1 ,Tv Peru SD(2) 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="Peru", TV peru  SD (2) 
 http://mylatinotv.com:25461/live/jose/jose/1115814.m3u8
 
 
