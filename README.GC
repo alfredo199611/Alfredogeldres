@@ -197,23 +197,23 @@ http://mylatinotv.com:25461/live/jose/jose/81927.rtmp
 
 
 
-#EXTINF:-1 ,BEIN LALIGA 1HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Canal_N.png" group-title="Deportes", BEIN LALIGA (1)
 http://mylatinotv.com:25461/live/jose/jose/95997.m3u8
 
 
 
 
-#EXTINF:-1 ,BEIN LALIGA HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Canal_N.png" group-title="Deportes", BEIN LALIGA (2)
 http://mylatinotv.com:25461/live/jose/jose/95998.m3u8
 
 
 
 
-#EXTINF:-1 ,BEIN SPORTS HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Canal_N.png" group-title="Deportes", BEIN SPORTS (1)
 http://mylatinotv.com:25461/live/jose/jose/95999.m3u8
 
 
 
 
-#EXTINF:-1 ,BEIN SPORTS FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Canal_N.png" group-title="Deportes", BEIN SPORTS (2)
 http://mylatinotv.com:25461/live/jose/jose/96000.m3u8
