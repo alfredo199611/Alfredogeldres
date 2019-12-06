@@ -43,13 +43,13 @@ http://mylatinotv.com:25461/live/jose/jose/19005.ts
 
 
 
-#EXTINF:-1 ,ATV (1) 
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/atv-hd-logo-png-2.png" group-title="Peru", ATV HD (1) 
 http://mylatinotv.com:25461/live/jose/jose/22619.m3u8
 
 
 
 
-#EXTINF:-1 ,Atv SD (2)
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/atv-hd-logo-png-2.png" group-title="Peru", ATV SD (2)
 http://mylatinotv.com:25461/live/jose/jose/1113094.rtmp
 
 
