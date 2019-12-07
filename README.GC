@@ -321,7 +321,7 @@ https://vd32.mycdn.me/?expires=1575767047405&srcIp=34.74.123.20&srcAg=CHROME_AND
 #EXTINF:-1 group-title="PELICULAS DE ESTRENO", ,CIUDAD VIRTUAL (2017)
 https://vd91.mycdn.me/?expires=1575767411159&srcIp=34.74.123.20&srcAg=CHROME_ANDROID&ms=185.16.246.75&type=3&sig=3qgBZkpzpHY&ct=0&urls=217.20.145.46&clientType=0&id=597961738868
 
-#EXTINF:-1 group-title=PREMIUM", ,FOX
+#EXTINF:-1 group-title=PREMIUM",FOX
 http://public.frst.site:2052/btm_hls/082/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDI6MDQ6MTggQU0maGFzaF92YWx1ZT1IbDNYbXE1em1saEYxT3VHNnZyajFnPT0mdmFsaWRtaW51dGVzPTcyMDA=
 
 
