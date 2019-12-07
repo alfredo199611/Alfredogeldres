@@ -313,3 +313,51 @@ https://vd32.mycdn.me/?expires=1575767047405&srcIp=34.74.123.20&srcAg=CHROME_AND
 
 
 
+
+
+
+
+
+#EXTINF:-1 group-title="PELICULAS DE ESTRENO", ,CIUDAD VIRTUAL (2017)
+https://vd91.mycdn.me/?expires=1575767411159&srcIp=34.74.123.20&srcAg=CHROME_ANDROID&ms=185.16.246.75&type=3&sig=3qgBZkpzpHY&ct=0&urls=217.20.145.46&clientType=0&id=597961738868
+
+
+
+
+
+
+#EXTINF:-1 group-title="PREMIUM", ,Fox Action
+http://public.frst.site:2052/btm_hls/536/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDE6MTM6MjkgQU0maGFzaF92YWx1ZT1zQ3FtbFNqV3VrczZFQlJOelp0bFJBPT0mdmFsaWRtaW51dGVzPTcyMDA=
+
+
+
+#EXTINF:-1 group-title="PREMIUM", ,Fox Cinema
+http://public.frst.site:2052/btm_hls/075/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDE6MTU6MDAgQU0maGFzaF92YWx1ZT0rY1Y0SkR3V3ZRemlmOWNiMTdtZHhRPT0mdmFsaWRtaW51dGVzPTcyMDA=
+
+
+
+#EXTINF:-1 group-title="PREMIUM", ,Fox Clasico
+http://public.frst.site:2052/btm_hls/076/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDE6MTY6MDQgQU0maGFzaF92YWx1ZT11QUROaS9DdHpyaExKTjZqMGtwNnlnPT0mdmFsaWRtaW51dGVzPTcyMDA=
+
+
+
+#EXTINF:-1 group-title="PREMIUM", ,Fox Comedia
+http://public.frst.site:2052/btm_hls/077/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDE6MTc6MjMgQU0maGFzaF92YWx1ZT04L2d1ZEV2dGJyYUROWHhUVzV2bEVRPT0mdmFsaWRtaW51dGVzPTcyMDA=
+
+
+
+
+
+#EXTINF:-1 group-title="PREMIUM", ,Fox Familia
+http://public.frst.site:2052/btm_hls/078/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDE6MTk6MTMgQU0maGFzaF92YWx1ZT13MU9Takk3UFB4dWtPdzIwVWxxQVNBPT0mdmFsaWRtaW51dGVzPTcyMDA=
+
+
+
+#EXTINF:-1 group-title="PREMIUM", ,Fox Movies
+http://public.frst.site:2052/btm_hls/079/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDE6MjA6MTMgQU0maGFzaF92YWx1ZT1XeHRiTUtxbnRLQnRhdFZSUnY2Vlp3PT0mdmFsaWRtaW51dGVzPTcyMDA=
+
+
+
+#EXTINF:-1 group-title="PREMIUM", ,Fox Series 
+http://public.frst.site:2052/btm_hls/080/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDE6MjI6MzIgQU0maGFzaF92YWx1ZT1PQno4Q1pUdGZ0Q1ByZDJrNFh6Tld3PT0mdmFsaWRtaW51dGVzPTcyMDA=
+
