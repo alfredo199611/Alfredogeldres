@@ -291,3 +291,15 @@ http://public.frst.site:2052/btm_hls/079/playlist.m3u8?wmsAuthSign=c2VydmVyX3Rpb
 #EXTINF:-1 group-title="PREMIUM", ,Fox Series 
 http://public.frst.site:2052/btm_hls/080/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDE6MjI6MzIgQU0maGFzaF92YWx1ZT1PQno4Q1pUdGZ0Q1ByZDJrNFh6Tld3PT0mdmFsaWRtaW51dGVzPTcyMDA=
 
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Latina_%282014-presente%29.png" group-title="Peru", Frecuencia Latina (Prueba)
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/TlnovelasLogo.png" group-title="Mexico", TL Novela (Prueba)
+http://public.frst.site:2052/btm_hls/060/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOC8yMDE5IDEyOjQ2OjQ2IEFNJmhhc2hfdmFsdWU9WHRhZm0weUE2SStUa3BjQUNiS2xGQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9MmEwMjkyMjg2N2IyNmNlOQ==
