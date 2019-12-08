@@ -320,7 +320,7 @@ http://103.194.171.229:25461/live/ar8k5ln/ar8k5ln/7.m3u
 
 
 
-#EXTINF:-1 group-title="película",shaolin soccer
+#EXTINF:-1 group-title="película",JHON WICH 1
 https://fs1.upvid.co/jvb32efqogsxdgj3nnnfp2k5ibgtwwbyhh7kh6wjfx27ffe5aolhu6l5m6rq/v.mp4
 
 
@@ -331,6 +331,5 @@ https://fs1.upvid.co/jvb32efqogsxdgj3nnnfp2k5ibgtwwbyhh7kh6wjfx27ffe5aolhu6l5m6r
 
 
 
-
-
-EXTINF:-1 https://drive.google.com/folderview?id=1oaNt65JtxQ_jcyx8MGFlTaNjHmUhKRlc
+#EXTINF:-1 group-title="película",JHON WICH
+http://192.168.0.5:30001/file/DzLMkw5A/video.mp4
