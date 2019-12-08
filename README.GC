@@ -271,24 +271,24 @@ http://public.frst.site:2052/btm_hls/076/playlist.m3u8?wmsAuthSign=c2VydmVyX3Rpb
 
 
 
-#EXTINF:-1 group-title="PREMIUM", ,Fox Comedia
+#EXTINF:-1 group-title="PREMIUM",Fox Comedia
 http://public.frst.site:2052/btm_hls/077/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDE6MTc6MjMgQU0maGFzaF92YWx1ZT04L2d1ZEV2dGJyYUROWHhUVzV2bEVRPT0mdmFsaWRtaW51dGVzPTcyMDA=
 
 
 
 
 
-#EXTINF:-1 group-title="PREMIUM", ,Fox Familia
+#EXTINF:-1 group-title="PREMIUM",Fox Familia
 http://public.frst.site:2052/btm_hls/078/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDE6MTk6MTMgQU0maGFzaF92YWx1ZT13MU9Takk3UFB4dWtPdzIwVWxxQVNBPT0mdmFsaWRtaW51dGVzPTcyMDA=
 
 
 
-#EXTINF:-1 group-title="PREMIUM", ,Fox Movies
+#EXTINF:-1 group-title="PREMIUM",Fox Movies
 http://public.frst.site:2052/btm_hls/079/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDE6MjA6MTMgQU0maGFzaF92YWx1ZT1XeHRiTUtxbnRLQnRhdFZSUnY2Vlp3PT0mdmFsaWRtaW51dGVzPTcyMDA=
 
 
 
-#EXTINF:-1 group-title="PREMIUM", ,Fox Series 
+#EXTINF:-1 group-title="PREMIUM",Fox Series 
 http://public.frst.site:2052/btm_hls/080/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDE6MjI6MzIgQU0maGFzaF92YWx1ZT1PQno4Q1pUdGZ0Q1ByZDJrNFh6Tld3PT0mdmFsaWRtaW51dGVzPTcyMDA=
 
 
@@ -303,3 +303,13 @@ http://public.frst.site:2052/btm_hls/080/playlist.m3u8?wmsAuthSign=c2VydmVyX3Rpb
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/TlnovelasLogo.png" group-title="Mexico", TL Novela (Prueba)
 http://public.frst.site:2052/btm_hls/060/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOC8yMDE5IDEyOjQ2OjQ2IEFNJmhhc2hfdmFsdWU9WHRhZm0weUE2SStUa3BjQUNiS2xGQT09JnZhbGlkbWludXRlcz0yNDAmaWQ9MmEwMjkyMjg2N2IyNmNlOQ==
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="DESPORT3S",TyC SPORTS
+http://103.194.171.229:25461/live/ar8k5ln/ar8k5ln/7.ts
