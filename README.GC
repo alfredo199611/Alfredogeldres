@@ -251,7 +251,7 @@ https://ecdn-mediastream.cdn.mdstrm.com/live-stream-secure/5c51e67df4d3c6698b02b
 
 
 #EXTINF:-1 group-title=PREMIUM",FOX
-http://public.frst.site:2052/btm_hls/082/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDI6MjI6MjggQU0maGFzaF92YWx1ZT05Tm5aOFI2azZIaXVFbjlyOXJRdFlBPT0mdmFsaWRtaW51dGVzPTcyMDA=
+http://tv-prime.tv:8080/live/Luis123/Luis123/938.m3u8
 
 
 
@@ -312,4 +312,4 @@ http://public.frst.site:2052/btm_hls/060/playlist.m3u8?wmsAuthSign=c2VydmVyX3Rpb
 
 
 #EXTINF:-1 group-title="DESPORT3S",TyC SPORTS
-http://103.194.171.229:25461/live/ar8k5ln/ar8k5ln/7.ts
+http://103.194.171.229:25461/live/ar8k5ln/ar8k5ln/7.m3u
