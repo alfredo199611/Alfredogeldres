@@ -38,6 +38,9 @@ http://mylatinotv.com:25461/live/jose/jose/22616.rtmp
 
 
 
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Latina_%282014-presente%29.png" group-title="Peru", Frecuencia Latina (3)
 http://mylatinotv.com:25461/live/jose/jose/19005.ts
 
@@ -349,3 +352,10 @@ http://192.168.0.5:30001/file/OHfTgL90/video.mp4
 
 #EXTINF:-1 group-title="película",Shaolin Soccer 
 http://dl.dropbox.com/s/cyavczwmiqmassp/Shaolin%20Soccer%20%282001%29.mp4
+
+
+
+
+
+#EXTINF:-1 group-title="película",Ge
+http://dl.dropbox.com/s/swtrde8cb6vykrv/Genesis.MP4
